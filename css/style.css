@@ -42,6 +42,10 @@ main {
     margin: 0 auto;
 }
 
+#home {
+	width: 100% !important;
+}
+
 form {
 	margin: 40px 0;
 }
